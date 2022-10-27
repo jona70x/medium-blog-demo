@@ -1,6 +1,23 @@
-# Next.js + Tailwind CSS Example
+# Medium Blog Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This project has been built following Sonny Sangha's tutorial link: https://www.youtube.com/watch?v=6fNy0iD3hsk.
+
+# Project Description
+
+Medium blog that allows you to comment blog posts. Comments must be approved by moderator.
+
+Back-end has been built using Sanity CMS.
+
+Project is fully responsive.
+
+# Technologies used
+
+1. React
+2. Sanity CMS
+3. Tailwind CSS
+4. TypeScript
+5. Next.js
+6. Vercel
 
 ## Deploy your own
 
