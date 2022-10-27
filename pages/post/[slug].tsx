@@ -90,6 +90,7 @@ function Post({ post }: Props) {
                   {children}
                 </a>
               ),
+              p: ({ props }: any) => <p className="py-1 mb-1" />,
             }}
             dataset={process.env.NEXT_PUBLIC_SANITY_DATASET}
             projectId={process.env.NEXT_PUBLIC_SANITY_PROJECT_ID}
