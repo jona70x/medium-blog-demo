@@ -10,6 +10,10 @@ Back-end has been built using Sanity CMS.
 
 Project is fully responsive.
 
+# Live link
+
+Check the project live here: https://medium-blog-demo.vercel.app/
+
 # Technologies used
 
 1. React
