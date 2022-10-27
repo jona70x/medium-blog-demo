@@ -20,7 +20,7 @@ const Header = () => {
           </h3>
         </div>
       </div>
-      <div className="flex items-center space-x-5 text-green-600">
+      <div className=" flex  flex-col py-2 space-y-2 sm:items-center sm:flex-row sm:space-x-5 sm:justify-center sm:py-0 sm:space-y-0 text-green-600 text-sm sm:text-lg  text-center">
         <h3>Sign in</h3>
         <h3 className="border px-4 py-1 rounded-full border-green-600">
           Get started
