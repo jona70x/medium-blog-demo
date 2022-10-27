@@ -107,7 +107,7 @@ function Post({ post }: Props) {
       {submitted ? (
         <div className="flex flex-col p-10 my-10 bg-yellow-500 text-white max-w-2xl mx-auto ">
           <h3>Thank you for submitting</h3>
-          <p>Once it has been approved it will show bellow.</p>
+          <p>Once it has been approved it will show below.</p>
         </div>
       ) : (
         <form
